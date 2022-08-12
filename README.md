@@ -1,0 +1,2 @@
+# Text-Analysis-with-Spark-RDD-API
+This project is to  implement simple data analytic workloads using the Spark RDD API. The data set that will work on is adapted from Contract Understanding Atticus Dataset (CUAD). You are asked to extract representative keywords from the anno- tated legal clauses using the RAKE algorithm described inAutomatic Keyword Extraction from Individual Documents[1]. You are required to design and implement the extrac- tion algorithm using ONLY basic Spark RDD API operations and Spark SQL to load the original CSV files for convenience.
